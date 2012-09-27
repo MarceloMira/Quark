@@ -1,0 +1,19 @@
+{
+  "name": "quark",
+  "description": "Node.js Template Engine",
+  "version": "0.0.1",
+  "author": "Moobin <info@moobin.net>",
+  "maintainers": [
+    "sergiolepore <slepore@moobin.net>",
+    "MarceloMira <mmira@moobin.net>",
+    "joelalejandro <joel.alejandro@moobin.net>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moobin/Quark.git"
+  },
+  "main": "./lib/quark",
+  "engines": {
+    "node": ">= 0.8.9"
+  }
+}
